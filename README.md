@@ -33,17 +33,11 @@ Apasionado por la tecnología y entusiasmado con el aprendizaje continuo en el c
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
-<div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,py,cs,cpp,vite,nextjs,github" />
   </a>
-    <img decoding="async" src="https://img.shields.io/badge/SQL%20Server-6DB33F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="sql"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/javascript-FFBE00?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
-  </a>
-
-</div>
+</p>
 
 ---
 
